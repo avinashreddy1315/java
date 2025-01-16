@@ -1,0 +1,21 @@
+Java is an platform independent
+
+first code is compiled using javac it will generate a file called .class file
+which is byte code file.
+
+And then we will be using java and class name to run the byte file in JVM we will
+get output.
+ 
+Javac -> Java compiler
+JVM -> Java virtual machine
+JRE -> Java Runtime Enviroment.
+JDK -> Java Development Kit
+
+file runs inside the JRE and JVM is responsible for the running the file.
+
+
+JDK is like outerbox which is used by developers
+Inside the JDK we have JRE -> INSIDE THE JRE we have JVM and libraries.
+
+
+JAVA is WORA -> WRITE ONCE AND RUN ANY WHERE 
