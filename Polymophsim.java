@@ -2,6 +2,8 @@
 
 class A{
 
+    public char[] marks1;
+
     public void show(){
         System.out.println("this is class A");
     }

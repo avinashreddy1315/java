@@ -19,6 +19,7 @@ interface  gpu extends hardware{
 
 class Computer implements  software, gpu{
 
+    @Override
     public void microsoft(){
         System.out.println("I am using windows os");
     }
